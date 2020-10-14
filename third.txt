@@ -1,1 +1,3 @@
 Hello World! [Added to illustrate git reset hard]
+
+Some new changes to further illustrate git reset hard
