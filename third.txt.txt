@@ -1,1 +1,0 @@
-This file has been added to illustrate the concept of git revert.
